@@ -1,0 +1,2100 @@
+fileFormatVersion: 2
+guid: 1e4519d6ec21f4c7984d0c9ad27d3ed0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pokerr ui (2)_0
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 9764
+        width: 696
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0364705751b47be833b84f370d469d
+      internalID: -743143703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_1
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 9739
+        width: 200
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d818f78e88ea474590cd6c202e302c1
+      internalID: -172823292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 9150
+        width: 733
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2b14ce2f8a44f85bf250da766f8328
+      internalID: 425123968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_3
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 9641
+        width: 1274
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884db55ccefce427096c715c29c8d0f0
+      internalID: -982750266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_4
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 9544
+        width: 200
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0a3bc44170740428bb7d21285d8e98
+      internalID: -1019816675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_5
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 9520
+        width: 120
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4b36bb8f1c84e5cbabbf240d2850b8
+      internalID: -67770353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_6
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 9509
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a88fe57b9584f059fb8ba148190f66
+      internalID: -1207632056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_7
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 8108
+        width: 3388
+        height: 1470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc34b13e83f8e4d389eb0b558f4a5c4f
+      internalID: -1288440305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_8
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 9140
+        width: 704
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb40d607ca604ed0981dbf02d0ac3bd
+      internalID: 1800674524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_9
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 9260
+        width: 151
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402c1bdd9643e48f5a8973546ec1aa30
+      internalID: 259936522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_10
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 9265
+        width: 146
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3d89c5cee68497da0d31daa8270e02
+      internalID: 2097685333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_11
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 9089
+        width: 151
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254c0044a70214921b9fc103b6d2fc20
+      internalID: -373614906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_12
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 9075
+        width: 171
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd091bdd5ab2445b886d835d030fa2a
+      internalID: -862228610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_13
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 9136
+        width: 121
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc095c4a21aa49c08bcc462144ca9e7
+      internalID: -1738312172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_14
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 9159
+        width: 114
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0c23f5f79924132b2fcec24db60149
+      internalID: -2086722915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 7459
+        width: 1225
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd9900bd213c4002b5289bfdec08370
+      internalID: 689643319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_16
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 8914
+        width: 147
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969003b65af76498d9a3e47d62f5948c
+      internalID: 1635358703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_17
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 8895
+        width: 549
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc28928354fc546dfa0d37060b0fd140
+      internalID: -100835847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_18
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 8972
+        width: 88
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dac1e4a1cb264ce59840392a498cb74
+      internalID: 760858382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_19
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 9016
+        width: 122
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610af7467e0484e1db66acd475add64e
+      internalID: -243513361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_20
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 9021
+        width: 307
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddefe83bf6a8c4f8e8e77dfe796d018b
+      internalID: -1209642617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_21
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 8782
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afad64c174d4a4fdb83bfb4f35467056
+      internalID: -2081613471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_22
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 8840
+        width: 122
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a9be30f5b9c4bc89f018a381f3632f
+      internalID: -1059128864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_23
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 8208
+        width: 270
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b76e82f9f434d4ebd16a75927a092c
+      internalID: -167551986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_24
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 7893
+        width: 620
+        height: 835
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461bd427d38b94992b6f55a507822d1e
+      internalID: -1467975413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_25
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 7893
+        width: 628
+        height: 835
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eca2c9f13d654aebb50a841a7a86689
+      internalID: -1864431329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_26
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 7893
+        width: 620
+        height: 835
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5184df4b374554657b6a2a6bba678146
+      internalID: -2071113918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_27
+      rect:
+        serializedVersion: 2
+        x: 3919
+        y: 7890
+        width: 629
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a222200b410c94d3380f8459280aa771
+      internalID: -790513637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_28
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 7454
+        width: 410
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7181ab9d35beb4fc9962168ecf7cb84d
+      internalID: 2001967217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_29
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 7434
+        width: 454
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271b2eda6bb234e42bef5f8230efa82e
+      internalID: -714323995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_30
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 7673
+        width: 136
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68de502151284b778348250ad61db02
+      internalID: -497293577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_31
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 7766
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cd882293b854bf18dd37be2409a4d0
+      internalID: 763984659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_32
+      rect:
+        serializedVersion: 2
+        x: 3699
+        y: 7678
+        width: 117
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc8d1ba066734107b01e456eeaaba8c
+      internalID: -1403902609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_33
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 7397
+        width: 491
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5302c5016344d0781c9adb94c38b95
+      internalID: -1975353901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_34
+      rect:
+        serializedVersion: 2
+        x: 5007
+        y: 6091
+        width: 3360
+        height: 1792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd73d591390fb4abd980ce4d0f1edae4
+      internalID: -2123634749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_35
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 7468
+        width: 488
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bbeccb960c94461bde211d8d350f49
+      internalID: -1482269716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_36
+      rect:
+        serializedVersion: 2
+        x: 3806
+        y: 7410
+        width: 117
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080ec362f94594e86b4887cb2a48eec5
+      internalID: 558620995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_37
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 6756
+        width: 1333
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a29c45344f6c4d96a972904da1a5dc6
+      internalID: -1174922925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_38
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 7063
+        width: 551
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0fe111d95c2493a884bacb9ff55006
+      internalID: 1963337302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_39
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 7063
+        width: 776
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d740bd0fe1c7142318815e6433ad8f89
+      internalID: -2015985823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_40
+      rect:
+        serializedVersion: 2
+        x: 9050
+        y: 6917
+        width: 332
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145a1ba26bdc843d6899fb6bf03d352c
+      internalID: 791861354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_41
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 5659
+        width: 193
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f27bcf1e5504755ae75984e53604ab
+      internalID: 822723341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_42
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 4983
+        width: 1855
+        height: 859
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e462792d9e04e43ac974a40cbf7080db
+      internalID: -25696968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_43
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 5530
+        width: 811
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91abfbba5fea34bcca88bd77667280c7
+      internalID: 993194570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_44
+      rect:
+        serializedVersion: 2
+        x: 4226
+        y: 5237
+        width: 1411
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a44f10419c0447e83aa7bbb4e0c2d4
+      internalID: -1578056342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_45
+      rect:
+        serializedVersion: 2
+        x: 6023
+        y: 5237
+        width: 351
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cab367cfa9044d9bedcdc665f76a91
+      internalID: 1210040798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_46
+      rect:
+        serializedVersion: 2
+        x: 6414
+        y: 5237
+        width: 346
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7964d8e20ecb4cfca38c499871cc8a4
+      internalID: 1577584468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_47
+      rect:
+        serializedVersion: 2
+        x: 6804
+        y: 5237
+        width: 351
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b6432109a41486fa09d9f6ed75c37f
+      internalID: -1580398306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_48
+      rect:
+        serializedVersion: 2
+        x: 7554
+        y: 5393
+        width: 129
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24d02cf7d1f64644b04e7452b9d7682
+      internalID: -795170515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_49
+      rect:
+        serializedVersion: 2
+        x: 7708
+        y: 5388
+        width: 107
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ab5006403d749fca36ae2224bc4fbe
+      internalID: 1412062385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_50
+      rect:
+        serializedVersion: 2
+        x: 7839
+        y: 5398
+        width: 127
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e27b846a71bb459193b192a9529cfcb
+      internalID: -1333751038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_51
+      rect:
+        serializedVersion: 2
+        x: 7976
+        y: 5403
+        width: 122
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ab0713ece674fa68b678b1088b59ff
+      internalID: 1776491129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_52
+      rect:
+        serializedVersion: 2
+        x: 7512
+        y: 5364
+        width: 630
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf318c1e7ee34aa0aefc822cf775b33
+      internalID: -2123353255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_53
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 4531
+        width: 254
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01eec4a73ef1141f881a40c43d5af3d3
+      internalID: 1079237184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_54
+      rect:
+        serializedVersion: 2
+        x: 4226
+        y: 4255
+        width: 1411
+        height: 894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f843d33474f4ba681a36def03bdb2c
+      internalID: -598047388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_55
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 4807
+        width: 122
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0862890d45940678791171cf0b4f54
+      internalID: 830093188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_56
+      rect:
+        serializedVersion: 2
+        x: 6604
+        y: 4734
+        width: 317
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02f70c5789274ad0be515fb6833880d
+      internalID: 7138802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_57
+      rect:
+        serializedVersion: 2
+        x: 7376
+        y: 4802
+        width: 458
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a509f25faba84bec91c498dc59e4e22
+      internalID: 1081739279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_58
+      rect:
+        serializedVersion: 2
+        x: 8982
+        y: 2981
+        width: 513
+        height: 1987
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f519e8cf64348f19dd6fd6e5b80b0d
+      internalID: -501357052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_59
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 4451
+        width: 552
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27f0c0e19191444785450a921602ee3
+      internalID: 1581033663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_60
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 4612
+        width: 122
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f1b5b9149a24b2abe1f07f5e52178d
+      internalID: 324335337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_61
+      rect:
+        serializedVersion: 2
+        x: 6628
+        y: 4612
+        width: 186
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd36c6865a51140d29f5e5063051ca67
+      internalID: 778252003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_62
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 4412
+        width: 122
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d044ba9840644e58c529b2b2211913
+      internalID: 1212387765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_63
+      rect:
+        serializedVersion: 2
+        x: 7376
+        y: 4412
+        width: 458
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674e9b61a4e1f466db76615744271258
+      internalID: -1063810303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_64
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2751
+        width: 996
+        height: 1573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e072ae7a93c10407b8d431ff1ce2fb50
+      internalID: 1485618537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_65
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 4124
+        width: 322
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4541d6a2dbc4c4f64a70cc4b01cc1ed0
+      internalID: 858317597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_66
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 3494
+        width: 1855
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae2f0dbf25ab49a9a9b0b498b5e3244
+      internalID: 1296597205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_67
+      rect:
+        serializedVersion: 2
+        x: 4207
+        y: 3386
+        width: 571
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaea9a7626a04026b62fe5c75561614
+      internalID: 1928707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_68
+      rect:
+        serializedVersion: 2
+        x: 4793
+        y: 3386
+        width: 571
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f50ef9bc1e54e7aa33a262cd12ec99
+      internalID: 966722639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_69
+      rect:
+        serializedVersion: 2
+        x: 5378
+        y: 3386
+        width: 567
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538a3cce76c9f489a97e5f06107ec5e2
+      internalID: 1438872821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_70
+      rect:
+        serializedVersion: 2
+        x: 6043
+        y: 3386
+        width: 571
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e69f2fd8c9e1401ea095a0b037ff6e4
+      internalID: -371845581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_71
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 3821
+        width: 376
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e54dd141915b4d9d85b107e32b5ad3e
+      internalID: -1373054098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_72
+      rect:
+        serializedVersion: 2
+        x: 6665
+        y: 3393
+        width: 1182
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62339bf9cce0a4b1591cbac04c56d427
+      internalID: 836481831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_73
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 3547
+        width: 375
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e100dcca0974a4fd393dfd9f4fa48ca1
+      internalID: 515826781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_74
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 2220
+        width: 2529
+        height: 1179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5c81a452f2c4c3f842d99bc136bbee
+      internalID: -755582626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_75
+      rect:
+        serializedVersion: 2
+        x: 4189
+        y: 2422
+        width: 1812
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b6eb186cb35465ebb52dcc1edfe8b8
+      internalID: -291942876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_76
+      rect:
+        serializedVersion: 2
+        x: 4353
+        y: 2151
+        width: 1416
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f56a684d9bb4de89de6cc37a3b58b1
+      internalID: 295702247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_77
+      rect:
+        serializedVersion: 2
+        x: 6743
+        y: 644
+        width: 3052
+        height: 1602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebb661a9102e4687ae788c19e0a1ac4
+      internalID: 1408916211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_78
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 193
+        width: 3223
+        height: 1670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1972750a10994b5ca682f6016ecc13b
+      internalID: 604458152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_79
+      rect:
+        serializedVersion: 2
+        x: 4408
+        y: 1123
+        width: 605
+        height: 788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc759f888e5541c68c5ba3d3eaf3d85
+      internalID: -1796081112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_80
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 8083
+        width: 1082
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8ed56e651754d65bf26bb32b515c46
+      internalID: 1580353565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_81
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 7388
+        width: 625
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b491908aa4d428196925734778c72c
+      internalID: 1745728932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_82
+      rect:
+        serializedVersion: 2
+        x: 5126
+        y: 1139
+        width: 1283
+        height: 773
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ca1936204e34be38fd5f4721597448
+      internalID: -445373994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_83
+      rect:
+        serializedVersion: 2
+        x: 7481
+        y: 5340
+        width: 674
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c854f421d349c4d49994d95220121074
+      internalID: -1075128794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerr ui (2)_84
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 4496
+        width: 757
+        height: 1612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbee3135204c4d9b9e407b876e41056
+      internalID: -2062089237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 65a0863144bf94fe286c094548884274
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      pokerr ui (2)_0: -743143703
+      pokerr ui (2)_1: -172823292
+      pokerr ui (2)_10: 2097685333
+      pokerr ui (2)_11: -373614906
+      pokerr ui (2)_12: -862228610
+      pokerr ui (2)_13: -1738312172
+      pokerr ui (2)_14: -2086722915
+      pokerr ui (2)_15: 689643319
+      pokerr ui (2)_16: 1635358703
+      pokerr ui (2)_17: -100835847
+      pokerr ui (2)_18: 760858382
+      pokerr ui (2)_19: -243513361
+      pokerr ui (2)_2: 425123968
+      pokerr ui (2)_20: -1209642617
+      pokerr ui (2)_21: -2081613471
+      pokerr ui (2)_22: -1059128864
+      pokerr ui (2)_23: -167551986
+      pokerr ui (2)_24: -1467975413
+      pokerr ui (2)_25: -1864431329
+      pokerr ui (2)_26: -2071113918
+      pokerr ui (2)_27: -790513637
+      pokerr ui (2)_28: 2001967217
+      pokerr ui (2)_29: -714323995
+      pokerr ui (2)_3: -982750266
+      pokerr ui (2)_30: -497293577
+      pokerr ui (2)_31: 763984659
+      pokerr ui (2)_32: -1403902609
+      pokerr ui (2)_33: -1975353901
+      pokerr ui (2)_34: -2123634749
+      pokerr ui (2)_35: -1482269716
+      pokerr ui (2)_36: 558620995
+      pokerr ui (2)_37: -1174922925
+      pokerr ui (2)_38: 1963337302
+      pokerr ui (2)_39: -2015985823
+      pokerr ui (2)_4: -1019816675
+      pokerr ui (2)_40: 791861354
+      pokerr ui (2)_41: 822723341
+      pokerr ui (2)_42: -25696968
+      pokerr ui (2)_43: 993194570
+      pokerr ui (2)_44: -1578056342
+      pokerr ui (2)_45: 1210040798
+      pokerr ui (2)_46: 1577584468
+      pokerr ui (2)_47: -1580398306
+      pokerr ui (2)_48: -795170515
+      pokerr ui (2)_49: 1412062385
+      pokerr ui (2)_5: -67770353
+      pokerr ui (2)_50: -1333751038
+      pokerr ui (2)_51: 1776491129
+      pokerr ui (2)_52: -2123353255
+      pokerr ui (2)_53: 1079237184
+      pokerr ui (2)_54: -598047388
+      pokerr ui (2)_55: 830093188
+      pokerr ui (2)_56: 7138802
+      pokerr ui (2)_57: 1081739279
+      pokerr ui (2)_58: -501357052
+      pokerr ui (2)_59: 1581033663
+      pokerr ui (2)_6: -1207632056
+      pokerr ui (2)_60: 324335337
+      pokerr ui (2)_61: 778252003
+      pokerr ui (2)_62: 1212387765
+      pokerr ui (2)_63: -1063810303
+      pokerr ui (2)_64: 1485618537
+      pokerr ui (2)_65: 858317597
+      pokerr ui (2)_66: 1296597205
+      pokerr ui (2)_67: 1928707
+      pokerr ui (2)_68: 966722639
+      pokerr ui (2)_69: 1438872821
+      pokerr ui (2)_7: -1288440305
+      pokerr ui (2)_70: -371845581
+      pokerr ui (2)_71: -1373054098
+      pokerr ui (2)_72: 836481831
+      pokerr ui (2)_73: 515826781
+      pokerr ui (2)_74: -755582626
+      pokerr ui (2)_75: -291942876
+      pokerr ui (2)_76: 295702247
+      pokerr ui (2)_77: 1408916211
+      pokerr ui (2)_78: 604458152
+      pokerr ui (2)_79: -1796081112
+      pokerr ui (2)_8: 1800674524
+      pokerr ui (2)_80: 1580353565
+      pokerr ui (2)_81: 1745728932
+      pokerr ui (2)_82: -445373994
+      pokerr ui (2)_83: -1075128794
+      pokerr ui (2)_84: -2062089237
+      pokerr ui (2)_9: 259936522
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

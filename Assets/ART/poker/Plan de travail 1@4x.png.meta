@@ -119,11 +119,24 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Plan de travail 1@4x_0
+      name: A_of_hearts
       rect:
         serializedVersion: 2
         x: 372
@@ -131,7 +144,7 @@ TextureImporter:
         width: 557
         height: 773
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -145,7 +158,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_1
+      name: A_of_clubs
       rect:
         serializedVersion: 2
         x: 993
@@ -153,7 +166,7 @@ TextureImporter:
         width: 557
         height: 773
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -167,7 +180,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_2
+      name: 8_of_hearts
       rect:
         serializedVersion: 2
         x: 1608
@@ -175,7 +188,7 @@ TextureImporter:
         width: 557
         height: 773
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -189,7 +202,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_3
+      name: 5_of_hearts
       rect:
         serializedVersion: 2
         x: 2235
@@ -197,7 +210,7 @@ TextureImporter:
         width: 557
         height: 773
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -211,7 +224,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_4
+      name: 2_of_hearts
       rect:
         serializedVersion: 2
         x: 2859
@@ -219,7 +232,7 @@ TextureImporter:
         width: 554
         height: 773
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -233,7 +246,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_5
+      name: 8_of_clubs
       rect:
         serializedVersion: 2
         x: 3489
@@ -241,7 +254,7 @@ TextureImporter:
         width: 557
         height: 773
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -255,7 +268,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_6
+      name: 5_of_clubs
       rect:
         serializedVersion: 2
         x: 4116
@@ -263,7 +276,7 @@ TextureImporter:
         width: 557
         height: 773
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -277,15 +290,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_7
+      name: 2_of_clubs
       rect:
         serializedVersion: 2
         x: 4743
-        y: 10843
+        y: 10854
         width: 557
         height: 773
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -307,7 +320,7 @@ TextureImporter:
         width: 3392
         height: 1699
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -321,7 +334,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_9
+      name: A_of_spades
       rect:
         serializedVersion: 2
         x: 372
@@ -329,7 +342,7 @@ TextureImporter:
         width: 557
         height: 778
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -343,7 +356,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_10
+      name: A_of_diamonds
       rect:
         serializedVersion: 2
         x: 993
@@ -351,7 +364,7 @@ TextureImporter:
         width: 557
         height: 778
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -365,7 +378,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_11
+      name: 9_of_hearts
       rect:
         serializedVersion: 2
         x: 1608
@@ -373,7 +386,7 @@ TextureImporter:
         width: 557
         height: 778
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -387,7 +400,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_12
+      name: 6_of_hearts
       rect:
         serializedVersion: 2
         x: 2235
@@ -395,7 +408,7 @@ TextureImporter:
         width: 557
         height: 778
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -409,7 +422,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_13
+      name: 3_of_hearts
       rect:
         serializedVersion: 2
         x: 2859
@@ -417,7 +430,7 @@ TextureImporter:
         width: 554
         height: 778
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -431,7 +444,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_14
+      name: 9_of_clubs
       rect:
         serializedVersion: 2
         x: 3489
@@ -439,7 +452,7 @@ TextureImporter:
         width: 557
         height: 778
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -453,7 +466,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_15
+      name: 6_of_clubs
       rect:
         serializedVersion: 2
         x: 4116
@@ -461,7 +474,7 @@ TextureImporter:
         width: 557
         height: 778
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -475,7 +488,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_16
+      name: 3_of_clubs
       rect:
         serializedVersion: 2
         x: 4743
@@ -483,7 +496,7 @@ TextureImporter:
         width: 557
         height: 778
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -505,7 +518,7 @@ TextureImporter:
         width: 252
         height: 188
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -527,7 +540,7 @@ TextureImporter:
         width: 539
         height: 1201
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -541,7 +554,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_19
+      name: red_back
       rect:
         serializedVersion: 2
         x: 999
@@ -549,7 +562,7 @@ TextureImporter:
         width: 551
         height: 773
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -563,7 +576,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_20
+      name: 10_of_hearts
       rect:
         serializedVersion: 2
         x: 1608
@@ -571,7 +584,7 @@ TextureImporter:
         width: 557
         height: 773
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -585,7 +598,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_21
+      name: 7_of_hearts
       rect:
         serializedVersion: 2
         x: 2235
@@ -593,7 +606,7 @@ TextureImporter:
         width: 557
         height: 773
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -607,7 +620,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_22
+      name: 4_of_hearts
       rect:
         serializedVersion: 2
         x: 2859
@@ -615,7 +628,7 @@ TextureImporter:
         width: 554
         height: 773
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -629,7 +642,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_23
+      name: 10_of_clubs
       rect:
         serializedVersion: 2
         x: 3489
@@ -637,7 +650,7 @@ TextureImporter:
         width: 557
         height: 773
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -651,7 +664,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_24
+      name: 7_of_clubs
       rect:
         serializedVersion: 2
         x: 4116
@@ -659,7 +672,7 @@ TextureImporter:
         width: 557
         height: 773
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -673,7 +686,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_25
+      name: 4_of_clubs
       rect:
         serializedVersion: 2
         x: 4743
@@ -681,7 +694,7 @@ TextureImporter:
         width: 557
         height: 773
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -703,7 +716,7 @@ TextureImporter:
         width: 3679
         height: 2109
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -717,7 +730,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_27
+      name: blue_back
       rect:
         serializedVersion: 2
         x: 999
@@ -725,7 +738,7 @@ TextureImporter:
         width: 551
         height: 773
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -739,7 +752,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_28
+      name: 8_of_spades
       rect:
         serializedVersion: 2
         x: 1608
@@ -747,7 +760,7 @@ TextureImporter:
         width: 557
         height: 779
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -761,7 +774,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_29
+      name: 5_of_spades
       rect:
         serializedVersion: 2
         x: 2235
@@ -769,7 +782,7 @@ TextureImporter:
         width: 557
         height: 779
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -783,7 +796,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_30
+      name: 2_of_spades
       rect:
         serializedVersion: 2
         x: 2859
@@ -791,7 +804,7 @@ TextureImporter:
         width: 554
         height: 779
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -805,7 +818,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_31
+      name: 8_of_diamonds
       rect:
         serializedVersion: 2
         x: 3489
@@ -813,7 +826,7 @@ TextureImporter:
         width: 557
         height: 779
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -827,7 +840,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_32
+      name: 5_of_diamonds
       rect:
         serializedVersion: 2
         x: 4116
@@ -835,7 +848,7 @@ TextureImporter:
         width: 557
         height: 779
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -849,7 +862,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_33
+      name: 2_of_diamonds
       rect:
         serializedVersion: 2
         x: 4743
@@ -857,7 +870,7 @@ TextureImporter:
         width: 557
         height: 779
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -879,7 +892,7 @@ TextureImporter:
         width: 969
         height: 808
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -893,7 +906,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_35
+      name: Joker
       rect:
         serializedVersion: 2
         x: 993
@@ -901,7 +914,7 @@ TextureImporter:
         width: 557
         height: 773
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -915,7 +928,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_36
+      name: 9_of_spades
       rect:
         serializedVersion: 2
         x: 1608
@@ -923,7 +936,7 @@ TextureImporter:
         width: 557
         height: 773
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -937,7 +950,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_37
+      name: 6_of_spades
       rect:
         serializedVersion: 2
         x: 2212
@@ -945,7 +958,7 @@ TextureImporter:
         width: 557
         height: 773
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -959,7 +972,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_38
+      name: 3_of_spades
       rect:
         serializedVersion: 2
         x: 2859
@@ -967,7 +980,7 @@ TextureImporter:
         width: 554
         height: 773
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -981,7 +994,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_39
+      name: 9_of_diamonds
       rect:
         serializedVersion: 2
         x: 3489
@@ -989,7 +1002,7 @@ TextureImporter:
         width: 557
         height: 773
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1003,7 +1016,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_40
+      name: 6_of_diamonds
       rect:
         serializedVersion: 2
         x: 4116
@@ -1011,7 +1024,7 @@ TextureImporter:
         width: 557
         height: 773
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1025,7 +1038,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_41
+      name: 3_of_diamonds
       rect:
         serializedVersion: 2
         x: 4743
@@ -1033,7 +1046,7 @@ TextureImporter:
         width: 557
         height: 773
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1047,7 +1060,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_42
+      name: 10_of_spades
       rect:
         serializedVersion: 2
         x: 1608
@@ -1055,7 +1068,7 @@ TextureImporter:
         width: 557
         height: 774
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1069,15 +1082,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_43
+      name: 7_of_spades
       rect:
         serializedVersion: 2
         x: 2235
-        y: 6536
+        y: 6544
         width: 557
         height: 774
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1091,15 +1104,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_44
+      name: 4_of_spades
       rect:
         serializedVersion: 2
-        x: 2859
+        x: 2842
         y: 6536
         width: 554
         height: 774
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1113,7 +1126,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_45
+      name: 10_of_diamonds
       rect:
         serializedVersion: 2
         x: 3489
@@ -1121,7 +1134,7 @@ TextureImporter:
         width: 557
         height: 774
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1135,7 +1148,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_46
+      name: 7_of_diamonds
       rect:
         serializedVersion: 2
         x: 4116
@@ -1143,7 +1156,7 @@ TextureImporter:
         width: 557
         height: 774
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1157,7 +1170,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_47
+      name: 4_of_diamonds
       rect:
         serializedVersion: 2
         x: 4743
@@ -1165,7 +1178,7 @@ TextureImporter:
         width: 557
         height: 774
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1187,7 +1200,7 @@ TextureImporter:
         width: 656
         height: 216
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1209,7 +1222,7 @@ TextureImporter:
         width: 175
         height: 175
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1231,7 +1244,7 @@ TextureImporter:
         width: 3317
         height: 3041
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1253,7 +1266,7 @@ TextureImporter:
         width: 426
         height: 228
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1275,7 +1288,7 @@ TextureImporter:
         width: 106
         height: 416
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1297,7 +1310,7 @@ TextureImporter:
         width: 556
         height: 772
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1311,15 +1324,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_54
+      name: J_of_clubs
       rect:
         serializedVersion: 2
         x: 2124
-        y: 5383
+        y: 5395
         width: 557
         height: 772
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1333,7 +1346,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_55
+      name: Q_of_hearts
       rect:
         serializedVersion: 2
         x: 2780
@@ -1341,7 +1354,7 @@ TextureImporter:
         width: 557
         height: 772
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1355,15 +1368,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_56
+      name: Q_of_clubs
       rect:
         serializedVersion: 2
-        x: 3401
-        y: 5383
+        x: 3395
+        y: 5395
         width: 557
         height: 772
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1377,7 +1390,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_57
+      name: K_of_hearts
       rect:
         serializedVersion: 2
         x: 4058
@@ -1385,7 +1398,7 @@ TextureImporter:
         width: 556
         height: 772
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1399,7 +1412,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_58
+      name: K_of_clubs
       rect:
         serializedVersion: 2
         x: 4667
@@ -1407,7 +1420,7 @@ TextureImporter:
         width: 557
         height: 772
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1429,7 +1442,7 @@ TextureImporter:
         width: 316
         height: 223
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1451,7 +1464,7 @@ TextureImporter:
         width: 680
         height: 188
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1473,7 +1486,7 @@ TextureImporter:
         width: 287
         height: 187
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1495,7 +1508,7 @@ TextureImporter:
         width: 287
         height: 187
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1517,7 +1530,7 @@ TextureImporter:
         width: 680
         height: 194
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1531,7 +1544,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_64
+      name: J_of_spades
       rect:
         serializedVersion: 2
         x: 1515
@@ -1539,7 +1552,7 @@ TextureImporter:
         width: 556
         height: 774
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1553,7 +1566,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_65
+      name: J_of_hearts
       rect:
         serializedVersion: 2
         x: 2124
@@ -1561,7 +1574,7 @@ TextureImporter:
         width: 557
         height: 774
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1575,15 +1588,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_66
+      name: Q_of_spades
       rect:
         serializedVersion: 2
-        x: 2780
-        y: 4579
+        x: 2805
+        y: 4563
         width: 557
         height: 774
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1597,7 +1610,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_67
+      name: Q_of_diamonds
       rect:
         serializedVersion: 2
         x: 3401
@@ -1605,7 +1618,7 @@ TextureImporter:
         width: 557
         height: 774
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1619,7 +1632,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_68
+      name: K_of_spades
       rect:
         serializedVersion: 2
         x: 4058
@@ -1627,7 +1640,7 @@ TextureImporter:
         width: 556
         height: 774
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1641,7 +1654,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_69
+      name: K_of_diamonds
       rect:
         serializedVersion: 2
         x: 4667
@@ -1649,7 +1662,7 @@ TextureImporter:
         width: 557
         height: 774
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1671,7 +1684,7 @@ TextureImporter:
         width: 1300
         height: 193
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1693,7 +1706,7 @@ TextureImporter:
         width: 322
         height: 188
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1715,7 +1728,7 @@ TextureImporter:
         width: 1300
         height: 187
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1737,7 +1750,7 @@ TextureImporter:
         width: 1219
         height: 35
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1751,7 +1764,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_74
+      name: 0
       rect:
         serializedVersion: 2
         x: 1550
@@ -1759,7 +1772,7 @@ TextureImporter:
         width: 451
         height: 481
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1773,7 +1786,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_75
+      name: 5
       rect:
         serializedVersion: 2
         x: 2077
@@ -1781,7 +1794,7 @@ TextureImporter:
         width: 451
         height: 481
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1795,7 +1808,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_76
+      name: 25
       rect:
         serializedVersion: 2
         x: 2610
@@ -1803,7 +1816,7 @@ TextureImporter:
         width: 446
         height: 481
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1817,7 +1830,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_77
+      name: 100
       rect:
         serializedVersion: 2
         x: 3132
@@ -1825,7 +1838,7 @@ TextureImporter:
         width: 457
         height: 481
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1847,7 +1860,7 @@ TextureImporter:
         width: 1511
         height: 1054
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1861,7 +1874,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_79
+      name: 500
       rect:
         serializedVersion: 2
         x: 1550
@@ -1869,7 +1882,7 @@ TextureImporter:
         width: 451
         height: 486
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1883,7 +1896,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_80
+      name: 1K
       rect:
         serializedVersion: 2
         x: 2077
@@ -1891,7 +1904,7 @@ TextureImporter:
         width: 451
         height: 486
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1905,7 +1918,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_81
+      name: 5K
       rect:
         serializedVersion: 2
         x: 2610
@@ -1913,7 +1926,7 @@ TextureImporter:
         width: 446
         height: 486
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1927,7 +1940,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_82
+      name: 10K
       rect:
         serializedVersion: 2
         x: 3132
@@ -1935,7 +1948,7 @@ TextureImporter:
         width: 457
         height: 486
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1949,7 +1962,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_83
+      name: 100K
       rect:
         serializedVersion: 2
         x: 1550
@@ -1957,7 +1970,7 @@ TextureImporter:
         width: 451
         height: 481
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1971,7 +1984,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plan de travail 1@4x_84
+      name: 25K
       rect:
         serializedVersion: 2
         x: 2077
@@ -1979,7 +1992,7 @@ TextureImporter:
         width: 451
         height: 481
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2001,7 +2014,7 @@ TextureImporter:
         width: 1769
         height: 1089
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2023,7 +2036,7 @@ TextureImporter:
         width: 442
         height: 255
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2045,7 +2058,7 @@ TextureImporter:
         width: 773
         height: 263
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2067,7 +2080,7 @@ TextureImporter:
         width: 925
         height: 327
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2089,7 +2102,7 @@ TextureImporter:
         width: 122
         height: 872
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2118,96 +2131,96 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Plan de travail 1@4x_0: 1461153348
-      Plan de travail 1@4x_1: -773355013
-      Plan de travail 1@4x_10: -717547246
-      Plan de travail 1@4x_11: -1539455710
-      Plan de travail 1@4x_12: 189010564
-      Plan de travail 1@4x_13: -1478057242
-      Plan de travail 1@4x_14: -365922548
-      Plan de travail 1@4x_15: -1697160848
-      Plan de travail 1@4x_16: 2117683535
+      0: -1015327435
+      100: -1746122082
+      100K: 1118946943
+      10K: -516423355
+      10_of_clubs: -573720173
+      10_of_diamonds: -1053390967
+      10_of_hearts: 1678304170
+      10_of_spades: 1693878033
+      1K: -2109764000
+      25: 1126029880
+      25K: -525589886
+      2_of_clubs: -500232387
+      2_of_diamonds: -1310260816
+      2_of_hearts: -245510954
+      2_of_spades: 633261677
+      3_of_clubs: 2117683535
+      3_of_diamonds: -1815965375
+      3_of_hearts: -1478057242
+      3_of_spades: -1457816031
+      4_of_clubs: 1733400313
+      4_of_diamonds: -531631216
+      4_of_hearts: -1387843187
+      4_of_spades: 1469159819
+      5: -381616015
+      500: 1069896875
+      5K: -445331946
+      5_of_clubs: -260964419
+      5_of_diamonds: 565135392
+      5_of_hearts: -1651272061
+      5_of_spades: -163537768
+      6_of_clubs: -1697160848
+      6_of_diamonds: 1298365337
+      6_of_hearts: 189010564
+      6_of_spades: -2020411283
+      7_of_clubs: 1097875273
+      7_of_diamonds: 336130599
+      7_of_hearts: -12771456
+      7_of_spades: 447228558
+      8_of_clubs: -1322952050
+      8_of_diamonds: 1444206911
+      8_of_hearts: -1684562521
+      8_of_spades: 1383725708
+      9_of_clubs: -365922548
+      9_of_diamonds: 988590892
+      9_of_hearts: -1539455710
+      9_of_spades: -1151914834
+      A_of_clubs: -773355013
+      A_of_diamonds: -717547246
+      A_of_hearts: 1461153348
+      A_of_spades: -1472616707
+      J_of_clubs: -937105414
+      J_of_hearts: -936565917
+      J_of_spades: 926395376
+      Joker: 1069355346
+      K_of_clubs: 1031800774
+      K_of_diamonds: -705765520
+      K_of_hearts: -1218853766
+      K_of_spades: 1074681945
       Plan de travail 1@4x_17: -1111088603
       Plan de travail 1@4x_18: 968137293
-      Plan de travail 1@4x_19: 423333823
-      Plan de travail 1@4x_2: -1684562521
-      Plan de travail 1@4x_20: 1678304170
-      Plan de travail 1@4x_21: -12771456
-      Plan de travail 1@4x_22: -1387843187
-      Plan de travail 1@4x_23: -573720173
-      Plan de travail 1@4x_24: 1097875273
-      Plan de travail 1@4x_25: 1733400313
       Plan de travail 1@4x_26: 374994525
-      Plan de travail 1@4x_27: 2079278829
-      Plan de travail 1@4x_28: 1383725708
-      Plan de travail 1@4x_29: -163537768
-      Plan de travail 1@4x_3: -1651272061
-      Plan de travail 1@4x_30: 633261677
-      Plan de travail 1@4x_31: 1444206911
-      Plan de travail 1@4x_32: 565135392
-      Plan de travail 1@4x_33: -1310260816
       Plan de travail 1@4x_34: -1595364517
-      Plan de travail 1@4x_35: 1069355346
-      Plan de travail 1@4x_36: -1151914834
-      Plan de travail 1@4x_37: -2020411283
-      Plan de travail 1@4x_38: -1457816031
-      Plan de travail 1@4x_39: 988590892
-      Plan de travail 1@4x_4: -245510954
-      Plan de travail 1@4x_40: 1298365337
-      Plan de travail 1@4x_41: -1815965375
-      Plan de travail 1@4x_42: 1693878033
-      Plan de travail 1@4x_43: 447228558
-      Plan de travail 1@4x_44: 1469159819
-      Plan de travail 1@4x_45: -1053390967
-      Plan de travail 1@4x_46: 336130599
-      Plan de travail 1@4x_47: -531631216
       Plan de travail 1@4x_48: 263734316
       Plan de travail 1@4x_49: -1601910420
-      Plan de travail 1@4x_5: -1322952050
       Plan de travail 1@4x_50: 436482645
       Plan de travail 1@4x_51: -1854940595
       Plan de travail 1@4x_52: 822263143
       Plan de travail 1@4x_53: 1011773261
-      Plan de travail 1@4x_54: -937105414
-      Plan de travail 1@4x_55: -1617784700
-      Plan de travail 1@4x_56: 1759241532
-      Plan de travail 1@4x_57: -1218853766
-      Plan de travail 1@4x_58: 1031800774
       Plan de travail 1@4x_59: -633136908
-      Plan de travail 1@4x_6: -260964419
       Plan de travail 1@4x_60: -1710643814
       Plan de travail 1@4x_61: -1842900745
       Plan de travail 1@4x_62: -629133463
       Plan de travail 1@4x_63: 1155526615
-      Plan de travail 1@4x_64: 926395376
-      Plan de travail 1@4x_65: -936565917
-      Plan de travail 1@4x_66: 1450361596
-      Plan de travail 1@4x_67: -886614153
-      Plan de travail 1@4x_68: 1074681945
-      Plan de travail 1@4x_69: -705765520
-      Plan de travail 1@4x_7: -500232387
       Plan de travail 1@4x_70: 2147194858
       Plan de travail 1@4x_71: 2083186257
       Plan de travail 1@4x_72: -145755439
       Plan de travail 1@4x_73: -586292769
-      Plan de travail 1@4x_74: -1015327435
-      Plan de travail 1@4x_75: -381616015
-      Plan de travail 1@4x_76: 1126029880
-      Plan de travail 1@4x_77: -1746122082
       Plan de travail 1@4x_78: -1016668812
-      Plan de travail 1@4x_79: 1069896875
       Plan de travail 1@4x_8: 863139821
-      Plan de travail 1@4x_80: -2109764000
-      Plan de travail 1@4x_81: -445331946
-      Plan de travail 1@4x_82: -516423355
-      Plan de travail 1@4x_83: 1118946943
-      Plan de travail 1@4x_84: -525589886
       Plan de travail 1@4x_85: -1319561091
       Plan de travail 1@4x_86: -33104852
       Plan de travail 1@4x_87: 1697926500
       Plan de travail 1@4x_88: 84183430
       Plan de travail 1@4x_89: 1985686902
-      Plan de travail 1@4x_9: -1472616707
+      Q_of_clubs: 1759241532
+      Q_of_diamonds: -886614153
+      Q_of_hearts: -1617784700
+      Q_of_spades: 1450361596
+      blue_back: 2079278829
+      red_back: 423333823
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
